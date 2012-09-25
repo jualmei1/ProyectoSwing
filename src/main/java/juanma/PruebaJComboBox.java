@@ -1,5 +1,5 @@
 /**
- * 
+ * prueba commit git
  */
 package juanma;
 
@@ -32,9 +32,7 @@ public class PruebaJComboBox {
 	private JFrame v;
 	public Flight f;
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		new PruebaJComboBox();
 		
