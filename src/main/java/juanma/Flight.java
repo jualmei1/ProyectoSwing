@@ -53,7 +53,7 @@ public class Flight {
 	public String getPais() {
 		return Pais;
 	}
-
+//prueba
 	public String setPais(String pais) {
 		return Pais = pais;
 	}
