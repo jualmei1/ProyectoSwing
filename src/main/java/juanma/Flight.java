@@ -44,7 +44,7 @@ public class Flight {
 	public String getNombre() {
 		return nombre;
 	}
-
+///////juanma
 	public String setNombre(String nombre) {
 		return this.nombre = nombre;
 	}
